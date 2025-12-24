@@ -1,3 +1,5 @@
+import bpy
+
 def assign_mesh_children_to_parent_bone(brick):
     
     #access this object 
